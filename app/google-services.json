@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "539239197381",
+    "firebase_url": "https://esp32-camera-1dd94-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "esp32-camera-1dd94",
+    "storage_bucket": "esp32-camera-1dd94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539239197381:android:88346511a9edd6f2ad5eac",
+        "android_client_info": {
+          "package_name": "com.example.takepic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539239197381-l3vm2rm2n4fot0kjimpoq67ga8qjrmoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.takepic",
+            "certificate_hash": "4619c6e8bc4b7c79739362ad49428db60302bc77"
+          }
+        },
+        {
+          "client_id": "539239197381-57tjs380hoar4g3e62pqd7a8m0mrfjhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_PmDEElOKah1HDO3fs6uMyYtITF0bUbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539239197381-57tjs380hoar4g3e62pqd7a8m0mrfjhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
